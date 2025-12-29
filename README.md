@@ -5,7 +5,7 @@ Quantum error correction depends strongly on assumed noise models, yet many exis
 Simply stated: This tool aims to analyze error correction performance under explicit noise assumptions than measuring noise directly from hardware
 
 **Why does it matter:**
-Error correction suppresses noise only under certain conditions, so small changes in noise assumptions can lead to very large differences in outputs/conclusions
+Error correction suppresses noise only under certain conditions, so small changes in noise assumptions can lead to very large differences in outputs/conclusions.
 This tool makes those assumptions inspectable, transparent and reproducible, thus allowing users to:
   - test the strength of results
   - compare code sizes
@@ -51,5 +51,7 @@ Future extensions may include more noise models and error correction behaviors a
 Will be completed when project is tangible
 
 License:
+
 Copyright (c) [2025] [Jithesh Mithra].
 It is licensed under the MIT License, available at [https://github.com/JitheshMithra/Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction/].
+Also reference License page in files.
