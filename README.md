@@ -1,5 +1,5 @@
 # Open source reproducible simulator to analyze noise assumptions in quantum error-correction
-**Overview:**
+## Overview:
 This project is an open‑source, reproducible, and reusable simulation tool made to analyze and simulate how noise assumptions affect the performance of quantum error correction, allowing for tweaks and slight changes if needed.
 Quantum error correction depends strongly on assumed noise models, yet many existing simulations are held to specific experiments or papers, and are not open to the public and far-reaching educated use. This tool gives a simple and clear framework for measuring and simulating how error correction performance changes as noise changes and varies.
 Simply stated: This tool aims to analyze error correction performance under explicit noise assumptions than measuring noise directly from hardware
@@ -47,10 +47,10 @@ This project does not attempt to create or show new error-correction codes or to
 The project is under active development.
 Future extensions may include more noise models and error correction behaviors and schemes.
 
-**Getting Started:**
+## Getting Started:
 Will be completed when project is tangible
 
-License:
+### License:
 
 Copyright (c) [2025] [Jithesh Mithra].
 It is licensed under the MIT License, available at [https://github.com/JitheshMithra/Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction/].
