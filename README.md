@@ -45,8 +45,8 @@ Currently:
 This project does not attempt to create or show new error-correction codes or to prove theoretical thresholds and boundaries. It is made and intended to be used as a measurement and analysis tool, **NOT** a theory checker or unfound breakthrough, just an easy tool for all to use.
 
 **Project status:**
-The project is under active development.
-Future extensions may include more noise models and error correction behaviors and schemes.
+v1 has been successfully pushed! v2 planning/coding has begun.
+Future extensions/ideas are seen down below under v2 plans.
 
 ## Getting Started:
 ### Installation:
