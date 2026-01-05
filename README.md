@@ -29,10 +29,11 @@ Logical information is protected with a reptition code, which encodes one logica
 For a given physical error rate _p_ and the size of the code _N_, the tool will estimate the logical error rate, which is the probability that decoding will fail, and it uses the Monte Carlo simulation by repeatedly sampling random noise.
 So by producing _p_ across a range of values and comparing the different code sizes, the tool will make a standard diagnostic plot that shows logical error rate vs physical error rate. The plot quantifies the data and shows how effectively the redundancy suppresses the errors and identifies where error correction will succeed or fail.
 
-**Limitations:**
+### Limitations:
   - The tool does not measure hardware noise, it analyzes the error correction performance of a given assumed noise parameters
   - Noise is assumed to be independent and uncorrelated
-  - The current implementation focuses on repetition codes and majority-vote decoding
+  - The current version mode focuses on repetition codes and majority-vote decoding
+
 The goal of this project is to give a simple, transparent, and reproducible simulation framework open to the public for studying how noise assumptions can change and impact error correction and its results.
 
 **Assumptions:**
@@ -92,10 +93,10 @@ Each run will generate timestamped results directory which contains:
   - QECsim_noise_results.txt: Table numerical values
 These values/outputs will show direct comparison of logical error reduction across different code sizes under specified noise assumptions
 
-Reproducibility:
+### Reproducibility:
   - All simulations are fully reproducible using the fixed random seeds specified in the CLI
   - Noise models and decoding assumptions are expected to be explicitly and specifically defined
-  - Results can be regenerated or extended by changing simulation parameters or noise models (once extended)
+  - Results can be regenerated or extended by changing simulation parameters
 
 Future additions (v2 plans):
   - Multiple noise models (biased, correlated, measurement, surface, etc.)
