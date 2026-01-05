@@ -112,6 +112,7 @@ Future additions (v2 plans):
   - saving results as JSON or CSV
 
 ### License:
+If used please cite in the recommended format.
 
 Copyright (c) [2025] [Jithesh Mithra].
 It is licensed under the MIT License, available at [https://github.com/JitheshMithra/Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction/].
