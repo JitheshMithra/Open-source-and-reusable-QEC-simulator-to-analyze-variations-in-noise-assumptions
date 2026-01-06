@@ -104,12 +104,12 @@ These values/outputs will show direct comparison of logical error reduction acro
   - Results can be regenerated or extended by changing simulation parameters
 
 Future additions (v2 plans):
-  - Multiple noise models (biased, correlated, measurement, surface, etc.)
+  - Extended noise models (biased, correlated)
   - Compare analytic vs simulated results (overlaying analytic curves and explicit convergence)
   - Log scale plots (users can plot LER on a log scale, clear error suppression, effective distance scaling)
   - Seed control per-p (use rng across entire sweep, improves statistical independence and interpretation)
-  - Parameter sweeps BEYOND p (number of trials, noise bias, correlation strength, etc.)
-  - saving results as JSON or CSV
+  - Parameter sweeps BEYOND p 
+  - Optional saving results as JSON or CSV
 
 ### License:
 If used or mentioned in published works please cite in the recommended format.
