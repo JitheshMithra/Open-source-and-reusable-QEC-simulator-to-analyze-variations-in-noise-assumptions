@@ -52,18 +52,6 @@ This project does not attempt to create or show new error-correction codes or to
 **Project status:**
 v1 has been successfully pushed! v2 planning/coding has begun.
 Future extensions/ideas are seen down below under v2 plans.
-
-## Getting Started:
-### Installation:
-Clone the repository:
-```bash
-git clone https://github.com/JitheshMithra/Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction.git
-cd Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction
-```
-Install required dependencies:
-```bash
-pip install -r requirements.txt
-```
 Intended Project structure (v1):
 ```
 src/
@@ -78,6 +66,18 @@ README.md
 LICENSE
 ExampleResult.png
 .gitignore
+```
+
+## Getting Started:
+### Installation:
+Clone the repository:
+```bash
+git clone https://github.com/JitheshMithra/Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction.git
+cd Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction
+```
+Install required dependencies:
+```bash
+pip install -r requirements.txt
 ```
 ### Running the simulation:
 All simulations are executed from the src directory
