@@ -52,7 +52,7 @@ This project does not attempt to create or show new error-correction codes or to
 **Project status:**
 v1 has been successfully pushed! v2 planning/coding has begun.
 Future extensions/ideas are seen down below under v2 plans.
-Intended Project structure (v1):
+**Intended Project structure (v1):**
 ```
 src/
   QECsim/
