@@ -73,8 +73,8 @@ ExampleResult.png
 ### Installation:
 Clone the repository:
 ```bash
-git clone https://github.com/JitheshMithra/Open-source-and-reusable-QEC-simulator-to-analyze-variations-in-noise-assumptions.git
-cd Open-source-and-reusable-QEC-simulator-to-analyze-variations-in-noise-assumptions
+git clone https://github.com/JitheshMithra/Open-source-and-reproducible-QEC-simulator-to-analyze-variations-in-noise-assumptions.git
+cd Open-source-and-reproducible-QEC-simulator-to-analyze-variations-in-noise-assumptions
 ```
 Install required dependencies:
 ```bash
