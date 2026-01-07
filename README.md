@@ -76,6 +76,7 @@ src/
 requirements.txt
 README.md
 LICENSE
+ExampleResult.png
 .gitignore
 ```
 ### Running the simulation:
