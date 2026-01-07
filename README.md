@@ -73,8 +73,8 @@ ExampleResult.png
 ### Installation:
 Clone the repository:
 ```bash
-git clone https://github.com/JitheshMithra/Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction.git
-cd Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction
+git clone https://github.com/JitheshMithra/Open-source-and-reusable-QEC-simulator-to-analyze-variations-in-noise-assumptions.git
+cd Open-source-and-reusable-QEC-simulator-to-analyze-variations-in-noise-assumptions
 ```
 Install required dependencies:
 ```bash
