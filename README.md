@@ -118,6 +118,6 @@ Future additions (v2 plans):
 If used or mentioned in published works please cite in the recommended format.
 
 Copyright (c) [2025] [Jithesh Mithra].
-It is licensed under the MIT License, available at [https://github.com/JitheshMithra/Open-source-reproducible-simulator-to-analyze-noise-assumptions-in-quantum-error-correction/].
+It is licensed under the MIT License, available at [https://github.com/JitheshMithra/Open-source-and-reproducible-QEC-simulator-to-analyze-variations-in-noise-assumptions/edit/main/README.md].
 
 Also check License page in files.
