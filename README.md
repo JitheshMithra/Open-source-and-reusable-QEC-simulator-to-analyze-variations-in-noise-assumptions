@@ -71,7 +71,7 @@ ExampleResult.png
 
 ## Getting Started:
 ### Installation:
-Make sure to download pip, python, git, and related packages prior to running this simulation. Once complete, proceed with installation instructions.
+Make sure to download/update latest versions of pip, python, git, and related packages prior to running this simulation for best/optimal results. Once complete, proceed with installation instructions.
 
 Clone the repository:
 ```bash
